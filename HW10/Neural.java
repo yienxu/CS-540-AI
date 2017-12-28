@@ -232,7 +232,7 @@ public class Neural {
                             prevSetError = setError;
                         }
                     }
-                    System.out.println(iter);
+                    System.out.println(iter == T + 1 ? iter - 1 : iter);
                     printResult(w);
                     printResult(new double[] {setError});
                     printResult(new double[] {accuracy(tests)});
