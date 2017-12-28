@@ -8,15 +8,24 @@ All HW problems copyright: Instructor and TAs listed below.
 
 Professor Jerry Zhu
 
-TAs: 
+TAs:
+
 	Zhenyu Zhang
+	
 	Wolong Yuan
+	
 	Stephen Sheen
+	
 	Ziyun Zeng
+	
 	Abhanshu Gupta
+	
 	Kurtis Liu
+	
 	Tananun Songdechakraiwut
+	
 	Aiqing Huang
+	
 	Shiqi Yang
 
 All HW solutions copyright: Yien Xu.
