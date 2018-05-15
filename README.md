@@ -1,4 +1,4 @@
-# CS-540-UW-Madison
+# CS-540-AI
 
 This is a HW Repository for CS 540, Fall 2017, at UW-Madison.
 
